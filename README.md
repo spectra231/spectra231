@@ -1,48 +1,24 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C00FF&height=220&section=header&text=Tech%20Raj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=58" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Tech Raj</h1>
+<h1 align="center">Hi 👋, I'm Tech Raj</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Learner;Cybersecurity+Enthusiast;Cloud+Learner;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Learning+DSA+%26+System+Design;Cybersecurity+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
-# 💻 About Me
+## 🚀 About Me
 
-```cpp
-class Developer {
-public:
-
-string name = "Tech Raj";
-
-string role = "Full Stack Developer";
-
-string learning = "DSA • System Design • AWS • DevOps";
-
-string languages[] = {"C++","JavaScript","Java"};
-
-string backend[] = {"Node.js","Express"};
-
-string frontend[] = {"React","HTML","CSS","Tailwind"};
-
-string database[] = {"MongoDB","MySQL"};
-
-string tools[] = {"Git","GitHub","VS Code","Docker","Postman"};
-
-};
-```
+- 🌱 Currently learning **Advanced DSA, MERN Stack, Cloud & DevOps**
+- 💻 Passionate about **Web Development**
+- 🔐 Interested in **Cybersecurity & Ethical Hacking**
+- ☁️ Exploring **AWS & Docker**
+- 🤖 Learning **AI Integration in Web Applications**
+- 🎯 Goal: Become a **Software Engineer**
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -68,27 +44,23 @@ string tools[] = {"Git","GitHub","VS Code","Docker","Postman"};
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Cloud & Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,linux" />
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📊 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -96,7 +68,15 @@ string tools[] = {"Git","GitHub","VS Code","Docker","Postman"};
 
 ---
 
-# 📉 Contribution Graph
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
@@ -104,74 +84,58 @@ string tools[] = {"Git","GitHub","VS Code","Docker","Postman"};
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1"/>
-</p>
+⭐ **Online Food Ordering Platform**
 
----
+- React
+- Node.js
+- MongoDB
+- Express
 
-# 🚀 Featured Projects
+⭐ **Chat Application**
 
-| Project | Description |
-|---------|-------------|
-| 🍔 Food Ordering System | MERN Stack application |
-| 💬 Chat App | Real-time messaging using Socket.io |
-| 🏥 Hospital Queue System | Appointment & Queue Management |
-| 🏫 Campus Complaint Portal | Complaint Tracking System |
+- MERN Stack
+- Socket.io
+- Real-time Messaging
 
----
+⭐ **Hospital Queue Management System**
 
-# 📚 Currently Learning
+- React
+- Node.js
+- MongoDB
 
-- Advanced DSA
-- System Design
-- AWS
-- Docker
-- CI/CD
-- Redis
-- Microservices
+⭐ **Campus Complaint Management**
+
+- React
+- MySQL
 
 ---
 
-# 🌎 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p>
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
+## 💡 Quote
 
-```text
-while(alive)
-{
-    Eat();
-    Code();
-    Learn();
-    Sleep();
-    Repeat();
-}
-```
+> "Keep learning. Keep building. Stay consistent."
 
 ---
 
 <p align="center">
-
-### ⭐ If you like my work, consider starring my repositories ⭐
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C00FF&height=120&section=footer"/>
