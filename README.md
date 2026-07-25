@@ -7,14 +7,21 @@
 
 ---
 
-## 🚀 About Me
+## 🖥️ About Me
 
-- 🌱 Currently learning **Advanced DSA, MERN Stack, Cloud & DevOps**
-- 💻 Passionate about **Web Development**
-- 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- ☁️ Exploring **AWS & Docker**
-- 🤖 Learning **AI Integration in Web Applications**
-- 🎯 Goal: Become a **Software Engineer**
+```bash
+> whoami
+
+Name        : Tech Raj
+Role        : Full Stack Developer
+Focus       : MERN Stack
+Learning    : DSA | System Design | AWS | DevOps
+Languages   : C++ | JavaScript | Java
+Database    : MongoDB | MySQL
+Editor      : VS Code
+OS          : Windows & Linux
+Status      : Building awesome projects...
+```
 
 ---
 
